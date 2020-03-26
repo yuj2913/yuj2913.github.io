@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yujiang Blog</title>
-    <link>https://yuj2913.github.io/categories/</link>
+    <link>https://yujiang2913.gitee.io/categories/</link>
     <description>Recent content in Categories on Yujiang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yuj2913.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yujiang2913.gitee.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tech</title>
-      <link>https://yuj2913.github.io/categories/tech/</link>
+      <link>https://yujiang2913.gitee.io/categories/tech/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuj2913.github.io/categories/tech/</guid>
+      <guid>https://yujiang2913.gitee.io/categories/tech/</guid>
       <description></description>
     </item>
     

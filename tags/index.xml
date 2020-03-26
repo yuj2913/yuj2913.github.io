@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yujiang Blog</title>
-    <link>https://yuj2913.github.io/tags/</link>
+    <link>https://yujiang2913.gitee.io/tags/</link>
     <description>Recent content in Tags on Yujiang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yuj2913.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yujiang2913.gitee.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>algorithm</title>
-      <link>https://yuj2913.github.io/tags/algorithm/</link>
+      <link>https://yujiang2913.gitee.io/tags/algorithm/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuj2913.github.io/tags/algorithm/</guid>
+      <guid>https://yujiang2913.gitee.io/tags/algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>model</title>
-      <link>https://yuj2913.github.io/tags/model/</link>
+      <link>https://yujiang2913.gitee.io/tags/model/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuj2913.github.io/tags/model/</guid>
+      <guid>https://yujiang2913.gitee.io/tags/model/</guid>
       <description></description>
     </item>
     

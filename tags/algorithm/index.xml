@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>algorithm on Yujiang Blog</title>
-    <link>https://yuj2913.github.io/tags/algorithm/</link>
+    <link>https://yujiang2913.gitee.io/tags/algorithm/</link>
     <description>Recent content in algorithm on Yujiang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yuj2913.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yujiang2913.gitee.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>需求随机的车辆路径问题：性质与求解框架</title>
-      <link>https://yuj2913.github.io/post/first/</link>
+      <link>https://yujiang2913.gitee.io/post/first/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yuj2913.github.io/post/first/</guid>
+      <guid>https://yujiang2913.gitee.io/post/first/</guid>
       <description>我们 尝试 活的更好</description>
     </item>
     
